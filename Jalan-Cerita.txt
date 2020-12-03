@@ -4,6 +4,10 @@ Konsep: Pengenalan mekanisme permainan
 Deskripsi: Pemain akan dikenalkan dengan mekanisme dasar seperti berjalan, berinteraksi dengan objek, dan menggunakan kendaraan.
 
 Act 1 Opening:
+  Konsep : pengajaran sistem lompat, jalan, dll
+
+  Kesha sedang berjalan bersama azraf menuju ke taman.pertama pengajarannya cara jalan lompat, dan make barang selagi annabelle nunggu di hutan. kemudian anabelle di ambil alien.    Lalu disini fase pertamanya. Azraf kejar annabelle dan akhirnya gagal. 
+
 
 Cutscene 1:
 
